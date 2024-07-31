@@ -405,7 +405,7 @@ section#sec2 .container {
 
 #bottom {
     background-color: #f5236c;
-    padding: 60px 0px;
+    padding: 60px 2px;
 }
 
 
@@ -422,7 +422,7 @@ section#sec2 .container {
 
 #bottom ul {
     list-style: none;
-    padding: 0;
+    padding: 0px;
 }
 
 #bottom ul li a {
